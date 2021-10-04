@@ -12,7 +12,7 @@ function App() {
   return (
     <div >
       <BrowserRouter>
-     
+     <Header />
       
       <Switch>
       <Route exact path = '/' component = {HomePage} />

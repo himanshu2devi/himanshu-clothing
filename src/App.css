@@ -3,3 +3,9 @@ body {
     font-family: 'Times New Roman', Times, serif;
     padding:20px 60px;
 }
+
+a{
+
+    text-decoration: none;
+    color: black;
+}
