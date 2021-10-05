@@ -1,6 +1,6 @@
 body {
 
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
     padding:20px 60px;
 }
 
@@ -8,4 +8,9 @@ a{
 
     text-decoration: none;
     color: black;
+}
+
+* {
+
+    box-sizing: border-box;
 }
