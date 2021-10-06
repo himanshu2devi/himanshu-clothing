@@ -12,6 +12,7 @@ const Header = ({ currentUser }) => (
             <Link className='logo-container' to ="/">
             <Logo className='logo' />
                 </Link>
+                <div ><h1 className='abc'>HIMANSHU CLOTHING</h1></div>
                 <div className='options'>
                     <Link className='option' to ='/shop'>
                         SHOP
